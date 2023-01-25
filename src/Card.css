@@ -1,0 +1,33 @@
+.card {
+    background-color: #ffffff;
+    width: 350px;
+    height: 313px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 7px 3px rgb(0, 0, 0, 0.06);
+    transition: all 0.2s ease-in;
+  }
+  
+  .icon-bulet {
+    width: 70px;
+    height: 70px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    transition: all 0.1s ease-in;
+  }
+  
+  .layanan-js {
+    background-color: #ffffff !important;
+    height: 100vh;
+  }
+  
+  .layanan-font h5 {
+    color: #00985b;
+    transition: all 0.2s ease-in;
+  }
+  
+  .layanan-font p {
+    transition: all 0.3s ease-in;
+    color: #000;
+  }
+  
